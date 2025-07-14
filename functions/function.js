@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
     $('.nope').mask('000-0000-0000000');
 });
