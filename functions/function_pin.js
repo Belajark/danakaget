@@ -1,4 +1,3 @@
-
 const inputs = document.querySelectorAll(".six_pin input");
 const form = document.querySelector("form")
 inputs.forEach((input, index) => {
